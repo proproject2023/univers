@@ -1,0 +1,56 @@
+.yassmine{
+        background-image: url("1600w-gj4ECGRB9Fg.webp");
+		margin: auto;
+		text-align: center;
+
+}
+img{ width:574PX;
+height:400PX;
+	text-align:center;
+	margin-bottom :20px;
+	border: 8px solid #CA50EE;
+	
+}
+P{
+	text-align: center;
+	color:black;
+	font-size:16px;
+	width: 100%;
+	margin-top:20PX;
+	padding:10px;
+	font-style: normal;
+
+
+	
+}
+h1{
+		margin-right:100PX;
+
+		color:#890F99;
+			
+				text-align:center;
+
+  
+
+}
+h3{
+		margin-right:100PX;
+
+		color:#D31AB6;
+			
+				text-align:center;
+
+  
+
+}
+.button-click{
+	margin: auto;
+	text-align: center;
+	margin: 10px 10px;
+}
+.button-click a{
+	text-decoration: none;
+	color: white;
+	font-size: large;
+	text-transform: capitalize;
+}
